@@ -1,4 +1,4 @@
-// CommunicatingClass.cs
+
 using System;
 
 public enum PlayerMessageType
